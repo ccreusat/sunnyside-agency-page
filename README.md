@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://sunnyside-agency-page.vercel.app/images/screenshot.jpg)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution page](https://your-solution-url.com)
+-   Live Site URL: [Live site](https://sunnyside-agency-page.vercel.app)
 
 ## My process
 
