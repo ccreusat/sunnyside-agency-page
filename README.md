@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://sunnyside-agency-page.vercel.app/images/screenshot.jpg)
+![](https://sunnyside-agency-page.vercel.app/images/screenshot.png)
 
 ### Links
 
