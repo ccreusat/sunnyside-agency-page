@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://sunnyside-agency-page.vercel.app/images/screenshot.png)
+![](https://ccreusat-sunnyside-agency-page.vercel.app/images/screenshot.png)
 
 ### Links
 
 -   Solution URL: [Solution page](https://your-solution-url.com)
--   Live Site URL: [Live site](https://sunnyside-agency-page.vercel.app)
+-   Live Site URL: [Live site](https://ccreusat-sunnyside-agency-page.vercel.app)
 
 ## My process
 
